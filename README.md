@@ -1,1 +1,2 @@
-Este contenido es distnto al del commit que actualmente esta subido
+Este repositorio sirve para ejercitar los comandos de Git
+(los cambios han sido mezclados)
